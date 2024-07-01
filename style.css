@@ -8,6 +8,7 @@ body{
     text-align: center;
     font-size: 90px;
     font-weight: bold;
+    margin-left: -50px;
 
 }
 
@@ -53,4 +54,41 @@ ul{
 
 ol{
     font-size: 30px;
+}
+
+.biryani-recipe{
+    text-align: center;
+    list-style-type: none;
+    background-color: lightcoral;
+    padding-top: 20px;
+    border: 5px solid red;
+    box-sizing: border-box;
+    height: 120px;
+    width: 500px;
+    margin: 0 auto;
+    
+}
+
+.chicken-fried-recipe{
+    text-align: center;
+    list-style-type: none;
+    background-color: lightcoral;
+    padding-top: 20px;
+    border: 5px solid red;
+    box-sizing: border-box;
+    height: 120px;
+    width: 500px;
+    margin: 10px auto;
+}
+
+.cookies-recipe{
+    text-align: center;
+    list-style-type: none;
+    background-color: lightcoral;
+    padding-top: 20px;
+    border: 5px solid red;
+    box-sizing: border-box;
+    height: 120px;
+    width: 500px;
+    margin: 10px auto;
 }
